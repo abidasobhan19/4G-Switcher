@@ -1,0 +1,2 @@
+rootProject.name='4G_Only_Trickload'
+include ':app'
